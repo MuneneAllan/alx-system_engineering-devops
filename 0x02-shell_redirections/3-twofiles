@@ -1,5 +1,2 @@
 #!/bin/bash
-less /etc/passwd
-;
-#!/bin/bash
-less /etc/hosts
+ca /etc/passwd etc/hosts
